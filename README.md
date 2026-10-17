@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Ashwin Shaju — Portfolio
 
 A responsive dark personal portfolio built with React, Vite, and lucide-react.
@@ -66,3 +67,6 @@ If you change the repository name, update `base` in `vite.config.js` to match. F
 
 ## Contact form
 The form uses `mailto:` and opens the visitor's email app. It does not send messages through a server. A backend or form service is needed for silent, direct form submissions.
+=======
+# portfolio
+>>>>>>> 8e004eb60d2abf4190453a60a99fc614e54e4e6f
